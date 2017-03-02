@@ -7,13 +7,11 @@ export default function binarySort(array, number) {
     var midpoint = (start + end) / 2;
     if(array[midpoint] === end) {
       result = midpoint;
-      return midpoint;
     } else if(array[midpoint] < end) {
       end = midpoint - 1;
     } else if(array[midpoint] > end) {
       start = midpoint + 1;
-
-    } else return -1;
+    }
+    return result;
   }
-  return result;
 }
