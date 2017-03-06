@@ -2,7 +2,7 @@
 
 Tests and implementations for algorithms commonly used in job interviews. See the full list in the [algorithms.md](algorithms.md) file.
 
-Base repository for the [Core Algorithms](https://github.com/GuildCrafts/web-development-js/issues/123) goal.
+Base repository forthe [Core Algorithms](https://github.com/GuildCrafts/web-development-js/issues/123) goal.
 
 ## Installation and Setup
 
