@@ -1,6 +1,6 @@
 # Core Algorithms
 
-Tests and implementations for algorithms commonly used in job interviews. See the full list in the [algorithms.md](algorithms.md) file.
+Tests and implementations for algorithms commonly used in job interviews. See the full list in the [algorithms.md](algorithms.md) fie.
 
 Base repository for the [Core Algorithms](https://github.com/GuildCrafts/web-development-js/issues/123) goal.
 
